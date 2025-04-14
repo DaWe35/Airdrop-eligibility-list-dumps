@@ -1,0 +1,30 @@
+[
+  {
+    "userId": "37585",
+    "userAddress": "0x9c97ca4ff9ce43549f6b828ffe2650033a5d8640",
+    "profileDisplayName": "FlyGuy",
+    "profileHandle": "flyguy",
+    "connectedAddresses": [
+      {
+        "address": "0xb681b19bb1f7e9f3c2ae0edeab368c2afaa4e590",
+        "chainId": "1"
+      },
+      {
+        "address": "0x3a4357b1626e3e8efb590614bf621f948fc7baa9",
+        "chainId": "1"
+      },
+      {
+        "address": "0xd7daaeb051e71221b12e9d3bad05590a2c6da461",
+        "chainId": "1"
+      },
+      {
+        "address": "0x23fc0a44b875790d4efd7e785495c556ca4c815c",
+        "chainId": "1"
+      },
+      {
+        "address": "0x8f4421646ca5c054deb3be6bcc89c0381323bd5a",
+        "chainId": "1"
+      }
+    ]
+  }
+]
