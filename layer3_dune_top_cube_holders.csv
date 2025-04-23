@@ -1,3 +1,4 @@
+Get this list from Dune with curl -H "X-Dune-API-Key:$API_KEY" "https://api.dune.com/api/v1/query/3748874/results/csv?limit=100000"
 0x34d4ecd77d6378ebdda1c62a38881e4587109181
 0x17daf278f0d4e406b435ea74387f52d0b18c5c25
 0xb4ed1a39491c83219764152e4dc68944d5547947
